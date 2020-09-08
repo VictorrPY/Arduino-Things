@@ -4,4 +4,4 @@ Im doing this because im bored... and i want to contribute to everyone who is st
 
 ## Support
 
-If you need support or you have a question you can create an [Issue] (https://github.com/VictorrPY/Arduino-Things/issues/new)
+If you need support or you have a question you can create an [Issue](https://github.com/VictorrPY/Arduino-Things/issues/new)
